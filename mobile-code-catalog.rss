@@ -1,0 +1,65 @@
+<?xml version="1.0"?>
+<rss version="2.0">
+	<channel>
+		<title>Mobile Code Catalog</title>
+		<description>Mobile isn't just the future, it's the new reality! Use this catalog to either jump-start your mobile project or save time and money using open source code from the federal government, other government entities, and third party projects.</description>
+		<link>http://gsa.github.io/Mobile-Code-Catalog/</link>
+
+		<item>
+			<title>HTML5 (HTML/CSS/JS)</title>
+			<description>Open source code useful for developers of mobile web sites.  Technologies used are centered on HTML, CSS, and JavaScript.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/web_html.html</link>
+		</item>
+		<item>
+			<title>JSP</title>
+			<description>Open source code useful for developers of mobile web sites.  Technology used is Java Server Pages.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/web_jsp.html</link>
+		</item>
+		<item>
+			<title>PHP</title>
+			<description>Open source code useful for developers of mobile web sites.  Technology used is PHP.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/web_php.html</link>
+		</item>
+		<item>
+			<title>Ruby</title>
+			<description>Open source code useful for developers of mobile web sites.  Technology used is Ruby.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/web_ruby.html</link>
+		</item>
+		<item>
+			<title>Android</title>
+			<description>Open source code useful for developers of native Android apps.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/native_android.html</link>
+		</item>
+		<item>
+			<title>Blackberry</title>
+			<description>Open source code useful for developers of native Blackberry apps.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/native_blackberry.html</link>
+		</item>
+		<item>
+			<title>iOS</title>
+			<description>Open source code useful for developers of native iOS apps.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/native_ios.html</link>
+		</item>
+		<item>
+			<title>Windows</title>
+			<description>Open source code useful for developers of native Windows apps.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/native_windows.html</link>
+		</item>
+		<item>
+			<title>Testing</title>
+			<description>Test scripts to help you ensure quality applications.  Scripts cover functionality and accessibility.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/testing.html</link>
+		</item>
+		<item>
+			<title>Submit Your Code</title>
+			<description>If your agency has open source code that you would like to see added to the mobile code catalog, please fill out the simple form below.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/form.html</link>
+		</item>
+		<item>
+			<title>Contact Us</title>
+			<description>If you have questions or comments regarding the mobile code catalog, please let us know below.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/qform.html</link>
+		</item>
+
+	</channel>
+</rss>
