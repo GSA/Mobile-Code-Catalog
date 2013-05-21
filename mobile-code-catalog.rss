@@ -21,6 +21,11 @@
 			<link>http://gsa.github.io/Mobile-Code-Catalog/web_php.html</link>
 		</item>
 		<item>
+			<title>Python</title>
+			<description>Open source code useful for developers of mobile web sites.  Technology used is Python.</description>
+			<link>http://gsa.github.io/Mobile-Code-Catalog/web_python.html</link>
+		</item>
+		<item>
 			<title>Ruby</title>
 			<description>Open source code useful for developers of mobile web sites.  Technology used is Ruby.</description>
 			<link>http://gsa.github.io/Mobile-Code-Catalog/web_ruby.html</link>
